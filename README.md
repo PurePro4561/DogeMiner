@@ -1,0 +1,2 @@
+# DogeMiner
+The Game
